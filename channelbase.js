@@ -672,7 +672,6 @@ function scrollerInit() {
   .on("click", function() {
 	scrollQueue();
   });
-$.getScript("//ThePotato97.github.io/channels.js");
 $.getScript("//ThePotato97.github.io/XaekaiModules.js");
 $.getScript("//ThePotato97.github.io/settings.js");
 $.getScript("//ThePotato97.github.io/discord.js");
