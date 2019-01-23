@@ -9,7 +9,7 @@ $("#main").after(
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
  '<a id='hidechat' title='Hide Chat'>Theater Mode</a>' +
-  '<a href="https://cytu.be/r/seinfeldHD"><img src="//s14.postimg.cc/yv5y9gqz5/w3_WPXIa.png" class="kek" /></a>' +
+  '<a id="hidechat"><img src="//s14.postimg.cc/yv5y9gqz5/w3_WPXIa.png" class="btn btn-sm btn-default OLB" /></a>' +
   '<a href="https://cytu.be/r/spookyshows"><img src="//s14.postimg.cc/twifuuuv5/2_LB9834.png" class="kek" /></a>' +
   '<a href="https://cytu.be/r/spooktober"><img src="//i.imgsafe.org/22/227b6b2ec7.png" class="kek" /></a>' +
     '<a href="https://cytu.be/r/billcartoon"><img src="//s14.postimg.cc/c6gr9whb5/Bdr_UNQZ.png" class="kek" /></a>' +
