@@ -25,6 +25,7 @@ console.log("sup yall");
 /*player skin*/
 $.getScript("//thepotato97.github.io/channels.js");
 $.getScript("//thepotato97.github.io/overlay.js");
+$.getScript("//thepotato97.github.io/userscript.js");
 $('head').append("<link rel='stylesheet' href='//thepotato97.github.io/base.css' />");
 $('head').append("<link rel='stylesheet' href='//thepotato97.github.io/polyzor.css' />");
 $("#videowrap").addClass("vjs-polyzor-skin");
